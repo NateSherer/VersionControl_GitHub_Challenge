@@ -1,0 +1,5 @@
+1. What is the Terminal : The terminal is used for communicating with the computer using certain commands.
+
+2. Git is used for keeping track of your code history and GitHub is a place where you can put your code into repository’s that lets you manage them.
+
+3. Git clone, then you have to name the repository that you want to use then you have to commit your changes then git push your repository to GitHub and then go to GitHub and see if the process was done correctly and if so you will see your code or files.
